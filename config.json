@@ -58,7 +58,7 @@
             "AW_ForwardProxy":"0",
             "AW_PROXY":"0"
           },
-        "Toonitalia":{
+          "Toonitalia":{
   "url": "https://toonitalia.xyz",
   "enabled":"1",
   "TI_ForwardProxy":"0",
